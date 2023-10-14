@@ -1,0 +1,3838 @@
+{
+    "perpetrator": {
+        "perpetrator": [
+            "offender",
+            "culprit"
+        ],
+        "people": [
+            "suspect",
+            "criminals"
+        ]
+    },
+    "college_2": {
+        "classroom": [
+            "lecture_hall",
+            "class"
+        ],
+        "department": [
+            "faculty",
+            "school"
+        ],
+        "course": [
+            "subject",
+            "program"
+        ],
+        "instructor": [
+            "teacher",
+            "professor"
+        ],
+        "section": [
+            "lecture",
+            "session"
+        ],
+        "teaches": [
+            "lectures",
+            "educates"
+        ],
+        "student": [
+            "pupil",
+            "learner"
+        ],
+        "takes": [
+            "enrollment",
+            "registration"
+        ],
+        "advisor": [
+            "mentor",
+            "counselor"
+        ],
+        "time_slot": [
+            "schedule",
+            "timetable"
+        ],
+        "prereq": [
+            "required_courses",
+            "dependencies"
+        ]
+    },
+    "flight_company": {
+        "airport": [
+            "aerodrome",
+            "airfield"
+        ],
+        "operate_company": [
+            "airline",
+            "aviation_company"
+        ],
+        "flight": [
+            "aircraft",
+            "travel"
+        ]
+    },
+    "icfp_1": {
+        "Inst": [
+            "Institute",
+            "Department"
+        ],
+        "Authors": [
+            "Writers",
+            "Creators"
+        ],
+        "Papers": [
+            "publications",
+            "articles"
+        ],
+        "Authorship": [
+            "Writing",
+            "Contribution"
+        ]
+    },
+    "body_builder": {
+        "body_builder": [
+            "fitness_enthusiast",
+            "weight_lifter"
+        ],
+        "people": [
+            "individuals",
+            "persons"
+        ]
+    },
+    "storm_record": {
+        "storm": [
+            "hurricane",
+            "typhoon"
+        ],
+        "region": [
+            "district",
+            "zone"
+        ],
+        "affected_region": [
+            "damaged_area",
+            "impacted_location"
+        ]
+    },
+    "pilot_record": {
+        "aircraft": [
+            "plane",
+            "aviation_vehicle"
+        ],
+        "pilot": [
+            "aviator",
+            "flyer"
+        ],
+        "pilot_record": [
+            "flight_log",
+            "aviator_record"
+        ]
+    },
+    "race_track": {
+        "race": [
+            "competition",
+            "tournament"
+        ],
+        "track": [
+            "course",
+            "circuit"
+        ]
+    },
+    "academic": {
+        "author": [
+            "writer",
+            "researcher"
+        ],
+        "conference": [
+            "event",
+            "meeting"
+        ],
+        "domain": [
+            "area",
+            "field"
+        ],
+        "domain_author": [
+            "field_author",
+            "specialization_author"
+        ],
+        "domain_conference": [
+            "conference_domain",
+            "domain_conf"
+        ],
+        "journal": [
+            "magazine",
+            "periodical"
+        ],
+        "domain_journal": [
+            "journal_category",
+            "journal_domain"
+        ],
+        "keyword": [
+            "tag",
+            "label"
+        ],
+        "domain_keyword": [
+            "topic_keyword",
+            "field_keyword"
+        ],
+        "publication": [
+            "paper",
+            "journal_article"
+        ],
+        "domain_publication": [
+            "field_journal",
+            "topic_article"
+        ],
+        "organization": [
+            "company",
+            "institute"
+        ],
+        "publication_keyword": [
+            "article_keyword",
+            "paper_keyword"
+        ],
+        "writes": [
+            "authored_by",
+            "composed_by"
+        ],
+        "cite": [
+            "source",
+            "reference"
+        ]
+    },
+    "department_store": {
+        "Addresses": [
+            "Locations",
+            "Places"
+        ],
+        "Staff": [
+            "Employee",
+            "Personnel"
+        ],
+        "Suppliers": [
+            "Vendors",
+            "Distributors"
+        ],
+        "Department_Store_Chain": [
+            "Franchise",
+            "Retailer_Network"
+        ],
+        "Customers": [
+            "buyers",
+            "shoppers"
+        ],
+        "Products": [
+            "Merchandise",
+            "Inventory"
+        ],
+        "Supplier_Addresses": [
+            "Supplier_Locations",
+            "Supplier_Addr"
+        ],
+        "Customer_Addresses": [
+            "Client_Addresses",
+            "Consumer_Addresses"
+        ],
+        "Customer_Orders": [
+            "sales_orders",
+            "purchases"
+        ],
+        "Department_Stores": [
+            "Retail_Outlet",
+            "Branch"
+        ],
+        "Departments": [
+            "sections",
+            "divisions"
+        ],
+        "Order_Items": [
+            "Order_Details",
+            "Order_Items_Details"
+        ],
+        "Product_Suppliers": [
+            "Product_Vendors",
+            "Supplier_Products"
+        ],
+        "Staff_Department_Assignments": [
+            "Employee_Department_Assignments",
+            "Staff_Department_Relations"
+        ]
+    },
+    "music_4": {
+        "artist": [
+            "musician",
+            "performer"
+        ],
+        "volume": [
+            "album",
+            "record"
+        ],
+        "music_festival": [
+            "music_event",
+            "concert_series"
+        ]
+    },
+    "insurance_fnol": {
+        "Customers": [
+            "policy_holders",
+            "insureds"
+        ],
+        "Services": [
+            "Coverages",
+            "Add-Ons"
+        ],
+        "Available_Policies": [
+            "Policy_Options",
+            "Insurance_Products"
+        ],
+        "Customers_Policies": [
+            "Policies_Customers",
+            "Policyholders"
+        ],
+        "First_Notification_of_Loss": [
+            "incident_report",
+            "insurance_claim_notice"
+        ],
+        "Claims": [
+            "Damage_Reports",
+            "Compensation_Requests"
+        ],
+        "Settlements": [
+            "Compensations",
+            "Claims_Settlements"
+        ]
+    },
+    "cinema": {
+        "film": [
+            "movie",
+            "picture"
+        ],
+        "cinema": [
+            "movie_theater",
+            "cinematheque"
+        ],
+        "schedule": [
+            "timetable",
+            "agenda"
+        ]
+    },
+    "decoration_competition": {
+        "college": [
+            "university",
+            "institution"
+        ],
+        "member": [
+            "competitor",
+            "participant"
+        ],
+        "round": [
+            "stage",
+            "heat"
+        ]
+    },
+    "phone_market": {
+        "phone": [
+            "device",
+            "handset"
+        ],
+        "market": [
+            "store",
+            "shop"
+        ],
+        "phone_market": [
+            "phone_sales",
+            "market_phone"
+        ]
+    },
+    "store_product": {
+        "product": [
+            "item",
+            "merchandise"
+        ],
+        "store": [
+            "shop",
+            "boutique"
+        ],
+        "district": [
+            "region",
+            "zone"
+        ],
+        "store_product": [
+            "inventory",
+            "merchandise"
+        ],
+        "store_district": [
+            "shop_location",
+            "point_of_sale"
+        ]
+    },
+    "assets_maintenance": {
+        "Third_Party_Companies": [
+            "Maintenance_Supports",
+            "External_Companies"
+        ],
+        "Maintenance_Contracts": [
+            "Maintenance_Agreements",
+            "Service_Contracts"
+        ],
+        "Parts": [
+            "spare_parts",
+            "components"
+        ],
+        "Skills": [
+            "Capabilities",
+            "Proficiencies"
+        ],
+        "Staff": [
+            "Employee",
+            "Personnel"
+        ],
+        "Assets": [
+            "Equipment",
+            "Inventory"
+        ],
+        "Asset_Parts": [
+            "part_of_asset",
+            "asset_components"
+        ],
+        "Maintenance_Engineers": [
+            "Repair_Technicians",
+            "Maintenance_Workers"
+        ],
+        "Engineer_Skills": [
+            "Engineer_Certifications",
+            "Skill_Training"
+        ],
+        "Fault_Log": [
+            "Defect_Log",
+            "Malfunction_Log"
+        ],
+        "Engineer_Visits": [
+            "Maintenance_Log",
+            "Engineer_Activity"
+        ],
+        "Part_Faults": [
+            "Defective_Parts",
+            "Faulty_Parts"
+        ],
+        "Fault_Log_Parts": [
+            "Part_Failure_Log",
+            "Part_Malfunction_Log"
+        ],
+        "Skills_Required_To_Fix": [
+            "Repair_Skills_Required",
+            "Maintenance_Specializations"
+        ]
+    },
+    "student_assessment": {
+        "Addresses": [
+            "Locations",
+            "Residences"
+        ],
+        "People": [
+            "Individuals",
+            "Persons"
+        ],
+        "Students": [
+            "Learners",
+            "Enrollees"
+        ],
+        "Courses": [
+            "subjects",
+            "modules"
+        ],
+        "People_Addresses": [
+            "Address_Details",
+            "Location_Info"
+        ],
+        "Student_Course_Registrations": [
+            "Enrolments",
+            "Course_Registrations"
+        ],
+        "Student_Course_Attendance": [
+            "Attendance",
+            "Course_Attendance"
+        ],
+        "Candidates": [
+            "Applicants",
+            "Contestants"
+        ],
+        "Candidate_Assessments": [
+            "Applicant_Evaluations",
+            "Enrollment_Assessments"
+        ]
+    },
+    "dog_kennels": {
+        "Breeds": [
+            "Dog_Types",
+            "Canine_Breeds"
+        ],
+        "Charges": [
+            "Prices",
+            "Fees"
+        ],
+        "Sizes": [
+            "Dimensions",
+            "Magnitudes"
+        ],
+        "Treatment_Types": [
+            "Therapy_Types",
+            "Care_Types"
+        ],
+        "Owners": [
+            "Guardians",
+            "Caretakers"
+        ],
+        "Dogs": [
+            "Canines",
+            "Pooches"
+        ],
+        "Professionals": [
+            "Handlers",
+            "Caregivers"
+        ],
+        "Treatments": [
+            "procedures",
+            "therapies"
+        ]
+    },
+    "music_1": {
+        "genre": [
+            "category",
+            "classification"
+        ],
+        "artist": [
+            "musician",
+            "performer"
+        ],
+        "files": [
+            "recordings",
+            "tracks"
+        ],
+        "song": [
+            "track",
+            "composition"
+        ]
+    },
+    "company_employee": {
+        "people": [
+            "employees",
+            "staff"
+        ],
+        "company": [
+            "corporation",
+            "enterprise"
+        ],
+        "employment": [
+            "job",
+            "position"
+        ]
+    },
+    "farm": {
+        "city": [
+            "metropolis",
+            "urban_area"
+        ],
+        "farm": [
+            "ranch",
+            "homestead"
+        ],
+        "farm_competition": [
+            "agriculture_competition",
+            "harvest_challenge"
+        ],
+        "competition_record": [
+            "event_record",
+            "tournament_record"
+        ]
+    },
+    "solvency_ii": {
+        "Addresses": [
+            "Locations",
+            "Places"
+        ],
+        "Locations": [
+            "Places",
+            "Sites"
+        ],
+        "Products": [
+            "Merchandise",
+            "Goods"
+        ],
+        "Parties": [
+            "Customers",
+            "Stakeholders"
+        ],
+        "Assets": [
+            "holdings",
+            "investments"
+        ],
+        "Channels": [
+            "Platforms",
+            "Distribution"
+        ],
+        "Finances": [
+            "Financials",
+            "Funds"
+        ],
+        "Events": [
+            "occurrences",
+            "functions"
+        ],
+        "Products_in_Events": [
+            "Items_in_Events",
+            "Merchandise_in_Events"
+        ],
+        "Parties_in_Events": [
+            "Participants",
+            "Attendees"
+        ],
+        "Agreements": [
+            "Contracts",
+            "Deals"
+        ],
+        "Assets_in_Events": [
+            "Participation",
+            "Allocations"
+        ]
+    },
+    "city_record": {
+        "city": [
+            "metropolis",
+            "urban"
+        ],
+        "match": [
+            "game",
+            "competition"
+        ],
+        "temperature": [
+            "weather",
+            "climate"
+        ],
+        "hosting_city": [
+            "venue",
+            "location"
+        ]
+    },
+    "swimming": {
+        "swimmer": [
+            "athlete",
+            "competitor"
+        ],
+        "stadium": [
+            "pool",
+            "aquatics_centre"
+        ],
+        "event": [
+            "race",
+            "tournament"
+        ],
+        "record": [
+            "result",
+            "achievement"
+        ]
+    },
+    "flight_2": {
+        "airlines": [
+            "carriers",
+            "aviation_companies"
+        ],
+        "airports": [
+            "departure_points",
+            "arrival_points"
+        ],
+        "flights": [
+            "journeys",
+            "routes"
+        ]
+    },
+    "election": {
+        "county": [
+            "district",
+            "region"
+        ],
+        "party": [
+            "political_party",
+            "movement"
+        ],
+        "election": [
+            "ballot",
+            "voting"
+        ]
+    },
+    "manufactory_1": {
+        "Manufacturers": [
+            "Producers",
+            "Makers"
+        ],
+        "Products": [
+            "Items",
+            "Merchandise"
+        ]
+    },
+    "debate": {
+        "people": [
+            "individuals",
+            "participants"
+        ],
+        "debate": [
+            "discussion",
+            "forum"
+        ],
+        "debate_people": [
+            "participants",
+            "contestants"
+        ]
+    },
+    "network_2": {
+        "Person": [
+            "User",
+            "Member"
+        ],
+        "PersonFriend": [
+            "Friendship",
+            "Connection"
+        ]
+    },
+    "local_govt_in_alabama": {
+        "Services": [
+            "Requests",
+            "Inquiries"
+        ],
+        "Participants": [
+            "Citizens",
+            "Residents"
+        ],
+        "Events": [
+            "Occurrences",
+            "Activities"
+        ],
+        "Participants_in_Events": [
+            "Attendance",
+            "Registration"
+        ]
+    },
+    "climbing": {
+        "mountain": [
+            "peak",
+            "summit"
+        ],
+        "climber": [
+            "rock_climber",
+            "mountaineer"
+        ]
+    },
+    "e_learning": {
+        "Course_Authors_and_Tutors": [
+            "Instructors",
+            "Course_Creators"
+        ],
+        "Students": [
+            "Learners",
+            "Pupils"
+        ],
+        "Subjects": [
+            "fields_of_study",
+            "academic_disciplines"
+        ],
+        "Courses": [
+            "Modules",
+            "Programs"
+        ],
+        "Student_Course_Enrolment": [
+            "Student_Class_Enrollment",
+            "Student_Class_Registration"
+        ],
+        "Student_Tests_Taken": [
+            "Test_Results",
+            "Quiz_Scores"
+        ]
+    },
+    "scientist_1": {
+        "Scientists": [
+            "Researchers",
+            "Explorers"
+        ],
+        "Projects": [
+            "Research",
+            "Experiments"
+        ],
+        "AssignedTo": [
+            "Join",
+            "Collaborate"
+        ]
+    },
+    "ship_1": {
+        "captain": [
+            "commander",
+            "skipper"
+        ],
+        "Ship": [
+            "vessel",
+            "boat"
+        ]
+    },
+    "entertainment_awards": {
+        "festival_detail": [
+            "event_detail",
+            "celebration_detail"
+        ],
+        "artwork": [
+            "masterpiece",
+            "creation"
+        ],
+        "nomination": [
+            "selection",
+            "shortlisting"
+        ]
+    },
+    "allergy_1": {
+        "Allergy_Type": [
+            "Allergy_Name",
+            "Type_of_Allergy"
+        ],
+        "Has_Allergy": [
+            "Student_Allergy",
+            "Allergy_Record"
+        ],
+        "Student": [
+            "Pupil",
+            "Learner"
+        ]
+    },
+    "imdb": {
+        "actor": [
+            "performer",
+            "cast_member"
+        ],
+        "copyright": [
+            "intellectual_property",
+            "ownership"
+        ],
+        "cast": [
+            "role",
+            "performer"
+        ],
+        "genre": [
+            "category",
+            "classification"
+        ],
+        "classification": [
+            "certification",
+            "rating"
+        ],
+        "company": [
+            "studio",
+            "production_house"
+        ],
+        "director": [
+            "filmmaker",
+            "cinematographer"
+        ],
+        "producer": [
+            "maker",
+            "manufacturer"
+        ],
+        "directed_by": [
+            "filmed_by",
+            "guided_by"
+        ],
+        "keyword": [
+            "tag",
+            "label"
+        ],
+        "made_by": [
+            "created_by",
+            "produced_by"
+        ],
+        "movie": [
+            "film",
+            "motion_picture"
+        ],
+        "tags": [
+            "labels",
+            "descriptors"
+        ],
+        "tv_series": [
+            "tv_show",
+            "television_series"
+        ],
+        "writer": [
+            "author",
+            "screenwriter"
+        ],
+        "written_by": [
+            "scripted_by",
+            "penned_by"
+        ]
+    },
+    "products_for_hire": {
+        "Discount_Coupons": [
+            "promo_codes",
+            "coupon_codes"
+        ],
+        "Customers": [
+            "Users",
+            "Clients"
+        ],
+        "Bookings": [
+            "Reservations",
+            "Appointments"
+        ],
+        "Products_for_Hire": [
+            "Equipment_for_Rent",
+            "Items_for_Hire"
+        ],
+        "Payments": [
+            "Transactions",
+            "Invoices"
+        ],
+        "Products_Booked": [
+            "Reserved_Products",
+            "Rented_Items"
+        ],
+        "View_Product_Availability": [
+            "Product_Availability_View",
+            "Product_Availabilities"
+        ]
+    },
+    "candidate_poll": {
+        "candidate": [
+            "aspirant",
+            "contender"
+        ],
+        "people": [
+            "voters",
+            "electorate"
+        ]
+    },
+    "chinook_1": {
+        "Album": [
+            "LP",
+            "Record"
+        ],
+        "Artist": [
+            "singer",
+            "musician"
+        ],
+        "Customer": [
+            "Client",
+            "Consumer"
+        ],
+        "Employee": [
+            "staff",
+            "worker"
+        ],
+        "Genre": [
+            "Category",
+            "Style"
+        ],
+        "Invoice": [
+            "Order",
+            "Transaction"
+        ],
+        "InvoiceLine": [
+            "LineItem",
+            "OrderLine"
+        ],
+        "MediaType": [
+            "Format",
+            "Encoding"
+        ],
+        "Playlist": [
+            "setlist",
+            "compilation"
+        ],
+        "PlaylistTrack": [
+            "TrackPlaylist",
+            "PlaylistSong"
+        ],
+        "Track": [
+            "song",
+            "audio"
+        ]
+    },
+    "flight_4": {
+        "routes": [
+            "flights",
+            "itineraries"
+        ],
+        "airports": [
+            "aerodromes",
+            "aviation_hubs"
+        ],
+        "airlines": [
+            "carriers",
+            "aviation_companies"
+        ]
+    },
+    "pets_1": {
+        "Student": [
+            "enrollee",
+            "learner"
+        ],
+        "Has_Pet": [
+            "owns",
+            "has_animal"
+        ],
+        "Pets": [
+            "Animals",
+            "Companions"
+        ]
+    },
+    "dorm_1": {
+        "Student": [
+            "Pupil",
+            "Learner"
+        ],
+        "Dorm": [
+            "Residence",
+            "Housing"
+        ],
+        "Dorm_amenity": [
+            "Amenity_type",
+            "Facilities"
+        ],
+        "Has_amenity": [
+            "Uses_amenity",
+            "Possesses_amenity"
+        ],
+        "Lives_in": [
+            "Resides_in",
+            "Inhabits"
+        ]
+    },
+    "journal_committee": {
+        "journal": [
+            "publication",
+            "magazine"
+        ],
+        "editor": [
+            "chief_editor",
+            "managing_editor"
+        ],
+        "journal_committee": [
+            "publication_committee",
+            "editorial_board"
+        ]
+    },
+    "flight_1": {
+        "flight": [
+            "trip",
+            "journey"
+        ],
+        "aircraft": [
+            "plane",
+            "jet"
+        ],
+        "employee": [
+            "staff",
+            "crew"
+        ],
+        "certificate": [
+            "license",
+            "qualification"
+        ]
+    },
+    "medicine_enzyme_interaction": {
+        "medicine": [
+            "drug",
+            "pharmaceutical"
+        ],
+        "enzyme": [
+            "catalyst",
+            "biocatalyst"
+        ],
+        "medicine_enzyme_interaction": [
+            "pharmacoenzyme",
+            "drug_interactions"
+        ]
+    },
+    "local_govt_and_lot": {
+        "Customers": [
+            "Clients",
+            "Patrons"
+        ],
+        "Properties": [
+            "Real_Estate",
+            "Estates"
+        ],
+        "Residents": [
+            "Citizens",
+            "Inhabitants"
+        ],
+        "Organizations": [
+            "Companies",
+            "Groups"
+        ],
+        "Services": [
+            "Amenities",
+            "Facilities"
+        ],
+        "Residents_Services": [
+            "Residents_Programs",
+            "Members_Services"
+        ],
+        "Things": [
+            "Assets",
+            "Inventory"
+        ],
+        "Customer_Events": [
+            "Occurrences",
+            "Appointments"
+        ],
+        "Customer_Event_Notes": [
+            "Complaint_Notes",
+            "Incident_Notes"
+        ],
+        "Timed_Status_of_Things": [
+            "Status_Logs",
+            "Thing_Status_TimeSeries"
+        ],
+        "Timed_Locations_of_Things": [
+            "Spatial_Temporal_Tracking",
+            "Location_Time_History"
+        ]
+    },
+    "station_weather": {
+        "train": [
+            "locomotive",
+            "express"
+        ],
+        "station": [
+            "stop",
+            "depot"
+        ],
+        "route": [
+            "journey",
+            "itinerary"
+        ],
+        "weekly_weather": [
+            "climate",
+            "weather_history"
+        ]
+    },
+    "shop_membership": {
+        "member": [
+            "customer",
+            "client"
+        ],
+        "branch": [
+            "outlet",
+            "franchise"
+        ],
+        "membership_register_branch": [
+            "membership_branch_register",
+            "member_branch_register"
+        ],
+        "purchase": [
+            "order",
+            "transaction"
+        ]
+    },
+    "driving_school": {
+        "Addresses": [
+            "Locations",
+            "Contact_Details"
+        ],
+        "Staff": [
+            "Instructors",
+            "Teachers"
+        ],
+        "Vehicles": [
+            "cars",
+            "automobiles"
+        ],
+        "Customers": [
+            "Students",
+            "Learners"
+        ],
+        "Customer_Payments": [
+            "payments",
+            "transactions"
+        ],
+        "Lessons": [
+            "Sessions",
+            "Driving_Sessions"
+        ]
+    },
+    "concert_singer": {
+        "stadium": [
+            "arena",
+            "venue"
+        ],
+        "singer": [
+            "artist",
+            "performer"
+        ],
+        "concert": [
+            "gig",
+            "performance"
+        ],
+        "singer_in_concert": [
+            "concert_performer",
+            "concert_artist"
+        ]
+    },
+    "music_2": {
+        "Songs": [
+            "tracks",
+            "tunes"
+        ],
+        "Albums": [
+            "records",
+            "collections"
+        ],
+        "Band": [
+            "group",
+            "ensemble"
+        ],
+        "Instruments": [
+            "gear",
+            "equipment"
+        ],
+        "Performance": [
+            "concert",
+            "gig"
+        ],
+        "Tracklists": [
+            "setlist",
+            "playlist"
+        ],
+        "Vocals": [
+            "vocalists",
+            "singers"
+        ]
+    },
+    "sports_competition": {
+        "club": [
+            "team",
+            "franchise"
+        ],
+        "club_rank": [
+            "team_rank",
+            "standing"
+        ],
+        "player": [
+            "athlete",
+            "sportsman"
+        ],
+        "competition": [
+            "tournament",
+            "event"
+        ],
+        "competition_result": [
+            "tournament_result",
+            "match_result"
+        ]
+    },
+    "railway": {
+        "railway": [
+            "station",
+            "terminal"
+        ],
+        "train": [
+            "locomotive",
+            "carriage"
+        ],
+        "manager": [
+            "supervisor",
+            "administrator"
+        ],
+        "railway_manage": [
+            "railway_admin",
+            "railway_operator"
+        ]
+    },
+    "inn_1": {
+        "Rooms": [
+            "Accommodations",
+            "Dwellings"
+        ],
+        "Reservations": [
+            "bookings",
+            "occupancy"
+        ]
+    },
+    "museum_visit": {
+        "museum": [
+            "gallery",
+            "exhibition"
+        ],
+        "visitor": [
+            "guest",
+            "patron"
+        ],
+        "visit": [
+            "attendance",
+            "check-in"
+        ]
+    },
+    "browser_web": {
+        "Web_client_accelerator": [
+            "browser_accelerator",
+            "web_accelerator"
+        ],
+        "browser": [
+            "web_browser",
+            "internet_browser"
+        ],
+        "accelerator_compatible_browser": [
+            "browser_accelerator_compatible",
+            "compatibility"
+        ]
+    },
+    "baseball_1": {
+        "all_star": [
+            "allstar_game",
+            "allstar"
+        ],
+        "appearances": [
+            "stats",
+            "participation"
+        ],
+        "manager_award": [
+            "coach_award",
+            "leader_award"
+        ],
+        "player_award": [
+            "awarded_player",
+            "player_trophy"
+        ],
+        "manager_award_vote": [
+            "manager_vote",
+            "award_electorate"
+        ],
+        "player_award_vote": [
+            "player_vote",
+            "award_player_vote"
+        ],
+        "batting": [
+            "hitting",
+            "batting_stats"
+        ],
+        "batting_postseason": [
+            "batting_playoffs",
+            "postseason_batting"
+        ],
+        "player_college": [
+            "college_player",
+            "player_education"
+        ],
+        "fielding": [
+            "defense",
+            "positioning"
+        ],
+        "fielding_outfield": [
+            "fielding_infield",
+            "fielding_positional"
+        ],
+        "fielding_postseason": [
+            "postseason_fielding",
+            "playoffs_fielding"
+        ],
+        "hall_of_fame": [
+            "hof",
+            "fame"
+        ],
+        "home_game": [
+            "game_played_at_home",
+            "home_stadium_game"
+        ],
+        "manager": [
+            "coach",
+            "skipper"
+        ],
+        "manager_half": [
+            "team_manager",
+            "managing_team"
+        ],
+        "player": [
+            "athlete",
+            "sportsman"
+        ],
+        "park": [
+            "stadium",
+            "ballpark"
+        ],
+        "pitching": [
+            "pitcher_stats",
+            "pitcher_performance"
+        ],
+        "pitching_postseason": [
+            "pitching_playoff",
+            "playoff_pitching"
+        ],
+        "salary": [
+            "payroll",
+            "compensation"
+        ],
+        "college": [
+            "university",
+            "institution"
+        ],
+        "postseason": [
+            "playoffs",
+            "championship"
+        ],
+        "team": [
+            "club",
+            "squad"
+        ],
+        "team_franchise": [
+            "franchise_history",
+            "team_history"
+        ],
+        "team_half": [
+            "team_period",
+            "team_duration"
+        ]
+    },
+    "architecture": {
+        "architect": [
+            "designer",
+            "planner"
+        ],
+        "bridge": [
+            "viaduct",
+            "aqueduct"
+        ],
+        "mill": [
+            "factory",
+            "plant"
+        ]
+    },
+    "csu_1": {
+        "Campuses": [
+            "locations",
+            "campus_locations"
+        ],
+        "csu_fees": [
+            "tuitions",
+            "educational_costs"
+        ],
+        "degrees": [
+            "majors",
+            "academic_programs"
+        ],
+        "discipline_enrollments": [
+            "major_enrollments",
+            "academic_program_enrollments"
+        ],
+        "enrollments": [
+            "registrations",
+            "admissions"
+        ],
+        "faculty": [
+            "professors",
+            "instructors"
+        ]
+    },
+    "tracking_orders": {
+        "Customers": [
+            "Clients",
+            "Buyers"
+        ],
+        "Invoices": [
+            "billing",
+            "receipts"
+        ],
+        "Orders": [
+            "purchases",
+            "transactions"
+        ],
+        "Products": [
+            "Merchandise",
+            "Items"
+        ],
+        "Order_Items": [
+            "Order_Details",
+            "Order_Products"
+        ],
+        "Shipments": [
+            "Deliveries",
+            "Shipments_Items_Delivered"
+        ],
+        "Shipment_Items": [
+            "Delivery_Items",
+            "Shipping_Details"
+        ]
+    },
+    "insurance_policies": {
+        "Customers": [
+            "Clients",
+            "Policyholders"
+        ],
+        "Customer_Policies": [
+            "Policy_Holders",
+            "Insured_Customers"
+        ],
+        "Claims": [
+            "Incidents",
+            "Losses"
+        ],
+        "Settlements": [
+            "Compensations",
+            "Agreements"
+        ],
+        "Payments": [
+            "transactions",
+            "remittances"
+        ]
+    },
+    "gas_company": {
+        "company": [
+            "corporation",
+            "enterprise"
+        ],
+        "gas_station": [
+            "fuel_stop",
+            "petrol_pump"
+        ],
+        "station_company": [
+            "location_affiliation",
+            "site_operator"
+        ]
+    },
+    "e_government": {
+        "Addresses": [
+            "Locations",
+            "Residences"
+        ],
+        "Services": [
+            "Solutions",
+            "Offerings"
+        ],
+        "Forms": [
+            "Questionnaires",
+            "Applications"
+        ],
+        "Individuals": [
+            "Citizens",
+            "Residents"
+        ],
+        "Organizations": [
+            "companies",
+            "institutions"
+        ],
+        "Parties": [
+            "Groups",
+            "Entities"
+        ],
+        "Organization_Contact_Individuals": [
+            "Organization_Contact_Personnel",
+            "Organization_Contacts"
+        ],
+        "Party_Addresses": [
+            "Address_Book",
+            "Contact_Addresses"
+        ],
+        "Party_Forms": [
+            "Party_Documents",
+            "Party_Paperwork"
+        ],
+        "Party_Services": [
+            "Service_Providers",
+            "Party_Provisions"
+        ]
+    },
+    "school_bus": {
+        "driver": [
+            "chauffeur",
+            "operator"
+        ],
+        "school": [
+            "institution",
+            "academy"
+        ],
+        "school_bus": [
+            "bus",
+            "transportation"
+        ]
+    },
+    "machine_repair": {
+        "repair": [
+            "fix",
+            "maintenance"
+        ],
+        "machine": [
+            "appliance",
+            "equipment"
+        ],
+        "technician": [
+            "repairman",
+            "service_technician"
+        ],
+        "repair_assignment": [
+            "task",
+            "maintenance"
+        ]
+    },
+    "theme_gallery": {
+        "artist": [
+            "painter",
+            "creator"
+        ],
+        "exhibition": [
+            "showcase",
+            "gallery_show"
+        ],
+        "exhibition_record": [
+            "artwork_archive",
+            "collection_record"
+        ]
+    },
+    "film_rank": {
+        "film": [
+            "movie",
+            "cinema"
+        ],
+        "market": [
+            "cinema",
+            "theater"
+        ],
+        "film_market_estimation": [
+            "movie_market_assessment",
+            "film_estimation"
+        ]
+    },
+    "party_people": {
+        "region": [
+            "location",
+            "territory"
+        ],
+        "party": [
+            "celebration",
+            "gathering"
+        ],
+        "member": [
+            "attendee",
+            "guest"
+        ],
+        "party_events": [
+            "festivities",
+            "celebration"
+        ]
+    },
+    "hospital_1": {
+        "Physician": [
+            "doctor",
+            "medical_practitioner"
+        ],
+        "Department": [
+            "Specialty",
+            "Division"
+        ],
+        "Affiliated_With": [
+            "Associated_With",
+            "Related_To"
+        ],
+        "Procedures": [
+            "Treatment",
+            "Operation"
+        ],
+        "Trained_In": [
+            "Certified_In",
+            "Qualified_In"
+        ],
+        "Patient": [
+            "client",
+            "case"
+        ],
+        "Nurse": [
+            "Registered_Nurse",
+            "Nursing_Professional"
+        ],
+        "Appointment": [
+            "Meeting",
+            "Consultation"
+        ],
+        "Medication": [
+            "Drug",
+            "Pharmaceutical"
+        ],
+        "Prescribes": [
+            "Administers",
+            "Dispenses"
+        ],
+        "Block": [
+            "schedule",
+            "reservation"
+        ],
+        "Room": [
+            "chamber",
+            "ward"
+        ],
+        "On_Call": [
+            "shift",
+            "duty_schedule"
+        ],
+        "Stay": [
+            "admission",
+            "hospitalization"
+        ],
+        "Undergoes": [
+            "Suffers_From",
+            "Experiences"
+        ]
+    },
+    "customers_campaigns_ecommerce": {
+        "Premises": [
+            "Business",
+            "Locations"
+        ],
+        "Products": [
+            "items",
+            "merchandise"
+        ],
+        "Customers": [
+            "Users",
+            "Clients"
+        ],
+        "Mailshot_Campaigns": [
+            "Email_Campaigns",
+            "Ecommerce_Campaigns"
+        ],
+        "Customer_Addresses": [
+            "Addresses",
+            "Delivery_Addresses"
+        ],
+        "Customer_Orders": [
+            "Sales",
+            "Transactions"
+        ],
+        "Mailshot_Customers": [
+            "Mailing_Lists",
+            "Campaign_Customers"
+        ],
+        "Order_Items": [
+            "Purchase_Items",
+            "Sales_Details"
+        ]
+    },
+    "gymnast": {
+        "gymnast": [
+            "athlete",
+            "performer"
+        ],
+        "people": [
+            "individuals",
+            "persons"
+        ]
+    },
+    "restaurants": {
+        "GEOGRAPHIC": [
+            "AREA",
+            "REGION"
+        ],
+        "RESTAURANT": [
+            "dine",
+            "eatery"
+        ],
+        "LOCATION": [
+            "address",
+            "place"
+        ]
+    },
+    "mountain_photos": {
+        "mountain": [
+            "mount",
+            "peak"
+        ],
+        "camera_lens": [
+            "lens",
+            "optic"
+        ],
+        "photos": [
+            "images",
+            "snapshots"
+        ]
+    },
+    "battle_death": {
+        "battle": [
+            "warfare",
+            "conflict"
+        ],
+        "ship": [
+            "vessel",
+            "navy"
+        ],
+        "death": [
+            "fatality",
+            "mortality"
+        ]
+    },
+    "cre_Doc_Control_Systems": {
+        "Ref_Document_Types": [
+            "Document_Templates",
+            "Type_Reference"
+        ],
+        "Roles": [
+            "Job_Titles",
+            "Positions"
+        ],
+        "Addresses": [
+            "Locations",
+            "Contact_Information"
+        ],
+        "Ref_Document_Status": [
+            "Document_State",
+            "Document_Stage"
+        ],
+        "Ref_Shipping_Agents": [
+            "Freight_Carriers",
+            "Logistics_Partners"
+        ],
+        "Documents": [
+            "Records",
+            "Files"
+        ],
+        "Employees": [
+            "Staff",
+            "Personnel"
+        ],
+        "Document_Drafts": [
+            "Doc_Drafts",
+            "Draft_Documents"
+        ],
+        "Draft_Copies": [
+            "Copy_Drafts",
+            "Working_Papers"
+        ],
+        "Circulation_History": [
+            "Document_Tracking",
+            "Document_History_Log"
+        ],
+        "Documents_Mailed": [
+            "Documents_Sent",
+            "Mailed_Documents"
+        ]
+    },
+    "tracking_share_transactions": {
+        "Investors": [
+            "shareholders",
+            "investments"
+        ],
+        "Lots": [
+            "Units",
+            "Quantity"
+        ],
+        "Ref_Transaction_Types": [
+            "Transaction_Types_Ref",
+            "Transaction_Types_Lookup"
+        ],
+        "Transactions": [
+            "Trades",
+            "Deals"
+        ],
+        "Sales": [
+            "Sell",
+            "Disposal"
+        ],
+        "Purchases": [
+            "Buyers",
+            "Acquisitions"
+        ],
+        "Transactions_Lots": [
+            "Orders_Lots",
+            "Bids_Lots"
+        ]
+    },
+    "apartment_rentals": {
+        "Apartment_Buildings": [
+            "Building_Listings",
+            "Housing_Complexes"
+        ],
+        "Apartments": [
+            "flats",
+            "rental_units"
+        ],
+        "Apartment_Facilities": [
+            "Amenities",
+            "Building_Features"
+        ],
+        "Guests": [
+            "Residents",
+            "Visitors"
+        ],
+        "Apartment_Bookings": [
+            "Reservation_Records",
+            "Booking_Details"
+        ],
+        "View_Unit_Status": [
+            "Unit_Availability",
+            "Occupancy_View"
+        ]
+    },
+    "student_transcripts_tracking": {
+        "Addresses": [
+            "Locations",
+            "Residences"
+        ],
+        "Courses": [
+            "Subjects",
+            "Modules"
+        ],
+        "Departments": [
+            "faculties",
+            "schools"
+        ],
+        "Degree_Programs": [
+            "Majors",
+            "Academic_Programs"
+        ],
+        "Sections": [
+            "Classes",
+            "Sessions"
+        ],
+        "Semesters": [
+            "Academic_Terms",
+            "Enrollment_Periods"
+        ],
+        "Students": [
+            "Learners",
+            "Pupils"
+        ],
+        "Student_Enrolment": [
+            "Student_Registration",
+            "Enrolment_Tracking"
+        ],
+        "Student_Enrolment_Courses": [
+            "student_registration_courses",
+            "enrolled_courses"
+        ],
+        "Transcripts": [
+            "Academic_History",
+            "Grade_Report"
+        ],
+        "Transcript_Contents": [
+            "Grades",
+            "Academic_Record"
+        ]
+    },
+    "cre_Docs_and_Epenses": {
+        "Ref_Document_Types": [
+            "Documents_Types",
+            "Type_of_Records"
+        ],
+        "Ref_Budget_Codes": [
+            "Expense_Categories",
+            "Budget_Items"
+        ],
+        "Projects": [
+            "Initiatives",
+            "Undertakings"
+        ],
+        "Documents": [
+            "Records",
+            "Files"
+        ],
+        "Statements": [
+            "Invoices",
+            "Expenses_Report"
+        ],
+        "Documents_with_Expenses": [
+            "Expensed_Documents",
+            "Costly_Documents"
+        ],
+        "Accounts": [
+            "Ledger",
+            "Bookkeeping"
+        ]
+    },
+    "ship_mission": {
+        "mission": [
+            "quest",
+            "expedition"
+        ],
+        "ship": [
+            "vessel",
+            "boat"
+        ]
+    },
+    "company_office": {
+        "buildings": [
+            "structures",
+            "edifices"
+        ],
+        "Companies": [
+            "Firms",
+            "Enterprises"
+        ],
+        "Office_locations": [
+            "branch_locations",
+            "workplaces"
+        ]
+    },
+    "tracking_software_problems": {
+        "Problem_Category_Codes": [
+            "Issue_Type_Codes",
+            "Error_Category_Codes"
+        ],
+        "Problem_Log": [
+            "Bug_Log",
+            "Issue_Log"
+        ],
+        "Problem_Status_Codes": [
+            "Issue_Status_Codes",
+            "Trouble_Status_Codes"
+        ],
+        "Product": [
+            "Software",
+            "Application"
+        ],
+        "Staff": [
+            "personnel",
+            "employees"
+        ],
+        "Problems": [
+            "Issues",
+            "Bugs"
+        ]
+    },
+    "products_gen_characteristics": {
+        "Ref_Characteristic_Types": [
+            "Characteristic_Types",
+            "Types"
+        ],
+        "Ref_Colors": [
+            "Color_Options",
+            "Color_Code"
+        ],
+        "Ref_Product_Categories": [
+            "Category",
+            "Product_Types"
+        ],
+        "Characteristics": [
+            "Properties",
+            "Attributes"
+        ],
+        "Products": [
+            "items",
+            "merchandise"
+        ],
+        "Product_Characteristics": [
+            "product_attributes",
+            "product_specs"
+        ]
+    },
+    "coffee_shop": {
+        "shop": [
+            "cafe",
+            "coffeehouse"
+        ],
+        "member": [
+            "customer",
+            "patron"
+        ],
+        "happy_hour": [
+            "discount_event",
+            "special_offer"
+        ],
+        "happy_hour_member": [
+            "offer_member",
+            "discount_member"
+        ]
+    },
+    "riding_club": {
+        "player": [
+            "rider",
+            "competitor"
+        ],
+        "club": [
+            "riding_centre",
+            "horse_club"
+        ],
+        "coach": [
+            "trainer",
+            "mentor"
+        ],
+        "player_coach": [
+            "trainee",
+            "coach_player"
+        ],
+        "match_result": [
+            "game_result",
+            "contest_result"
+        ]
+    },
+    "customers_card_transactions": {
+        "Accounts": [
+            "Ledger",
+            "Books"
+        ],
+        "Customers": [
+            "Users",
+            "Clients"
+        ],
+        "Customers_Cards": [
+            "Cardholders",
+            "Cards_Owned"
+        ],
+        "Financial_Transactions": [
+            "Money_Transfers",
+            "Transaction_Logs"
+        ]
+    },
+    "county_public_safety": {
+        "county_public_safety": [
+            "county_safety",
+            "public_safety_department"
+        ],
+        "city": [
+            "municipality",
+            "town"
+        ]
+    },
+    "performance_attendance": {
+        "member": [
+            "user",
+            "subscriber"
+        ],
+        "performance": [
+            "event",
+            "function"
+        ],
+        "member_attendance": [
+            "attendance_record",
+            "check_in"
+        ]
+    },
+    "club_1": {
+        "Student": [
+            "member",
+            "learner"
+        ],
+        "Club": [
+            "Organization",
+            "Association"
+        ],
+        "Member_of_club": [
+            "Membership",
+            "Club_membership"
+        ]
+    },
+    "singer": {
+        "singer": [
+            "vocalist",
+            "musician"
+        ],
+        "song": [
+            "track",
+            "composition"
+        ]
+    },
+    "culture_company": {
+        "book_club": [
+            "reading_circle",
+            "literature_club"
+        ],
+        "movie": [
+            "film",
+            "cinema"
+        ],
+        "culture_company": [
+            "cultural_organization",
+            "arts_company"
+        ]
+    },
+    "cre_Doc_Template_Mgt": {
+        "Ref_Template_Types": [
+            "Template_Types_Reference",
+            "Type_Templates"
+        ],
+        "Templates": [
+            "Forms",
+            "Drafts"
+        ],
+        "Documents": [
+            "Files",
+            "Records"
+        ],
+        "Paragraphs": [
+            "Sections",
+            "Passages"
+        ]
+    },
+    "musical": {
+        "musical": [
+            "show",
+            "production"
+        ],
+        "actor": [
+            "performer",
+            "cast_member"
+        ]
+    },
+    "world_1": {
+        "city": [
+            "town",
+            "metropolis"
+        ],
+        "sqlite_sequence": [
+            "auto_increment",
+            "sequence"
+        ],
+        "country": [
+            "nation",
+            "state"
+        ],
+        "countrylanguage": [
+            "official_language",
+            "spoken_language"
+        ]
+    },
+    "device": {
+        "device": [
+            "gadget",
+            "appliance"
+        ],
+        "shop": [
+            "store",
+            "boutique"
+        ],
+        "stock": [
+            "inventory",
+            "supply"
+        ]
+    },
+    "tracking_grants_for_research": {
+        "Document_Types": [
+            "File_Types",
+            "Document_Kinds"
+        ],
+        "Documents": [
+            "papers",
+            "records"
+        ],
+        "Grants": [
+            "Funding",
+            "Sponsorship"
+        ],
+        "Organisation_Types": [
+            "Company_Types",
+            "Institution_Types"
+        ],
+        "Organisations": [
+            "Institutions",
+            "Companies"
+        ],
+        "Project_Outcomes": [
+            "Project_Results",
+            "Project_Impacts"
+        ],
+        "Project_Staff": [
+            "Grant_Staff",
+            "Research_Team"
+        ],
+        "Projects": [
+            "Research_Activities",
+            "Grant_Projects"
+        ],
+        "Research_Outcomes": [
+            "Research_Findings",
+            "Research_Results"
+        ],
+        "Research_Staff": [
+            "Research_Team",
+            "Research_Group"
+        ],
+        "Staff_Roles": [
+            "Job_Positions",
+            "Employee_Roles"
+        ],
+        "Tasks": [
+            "assignments",
+            "duties"
+        ]
+    },
+    "employee_hire_evaluation": {
+        "employee": [
+            "staff",
+            "worker"
+        ],
+        "shop": [
+            "store",
+            "boutique"
+        ],
+        "hiring": [
+            "recruitment",
+            "onboarding"
+        ],
+        "evaluation": [
+            "appraisal",
+            "assessment"
+        ]
+    },
+    "movie_1": {
+        "Movie": [
+            "Film",
+            "Cinema"
+        ],
+        "Reviewer": [
+            "Critic",
+            "Viewer"
+        ],
+        "Rating": [
+            "evaluation",
+            "assessment"
+        ]
+    },
+    "network_1": {
+        "Highschooler": [
+            "Student",
+            "Teenager"
+        ],
+        "Friend": [
+            "Connection",
+            "Acquaintance"
+        ],
+        "Likes": [
+            "Preferences",
+            "Favourites"
+        ]
+    },
+    "poker_player": {
+        "poker_player": [
+            "player",
+            "gambler"
+        ],
+        "people": [
+            "person",
+            "individuals"
+        ]
+    },
+    "program_share": {
+        "program": [
+            "show",
+            "series"
+        ],
+        "channel": [
+            "station",
+            "network"
+        ],
+        "broadcast": [
+            "stream",
+            "transmission"
+        ],
+        "broadcast_share": [
+            "program_distribution",
+            "showtime"
+        ]
+    },
+    "aircraft": {
+        "pilot": [
+            "aviator",
+            "captain"
+        ],
+        "aircraft": [
+            "plane",
+            "jet"
+        ],
+        "match": [
+            "flight",
+            "route"
+        ],
+        "airport": [
+            "aerodrome",
+            "aviation_field"
+        ],
+        "airport_aircraft": [
+            "terminal_aircraft",
+            "gate_plane"
+        ]
+    },
+    "restaurant_1": {
+        "Student": [
+            "Customer",
+            "Diner"
+        ],
+        "Restaurant": [
+            "Eatery",
+            "Cafeteria"
+        ],
+        "Type_Of_Restaurant": [
+            "Cuisine",
+            "Food_Category"
+        ],
+        "Restaurant_Type": [
+            "Cuisine_Type",
+            "Food_Category"
+        ],
+        "Visits_Restaurant": [
+            "Customer_Restaurant_Visits",
+            "Diner_Encounters"
+        ]
+    },
+    "customers_and_invoices": {
+        "Customers": [
+            "users",
+            "clients"
+        ],
+        "Orders": [
+            "sales",
+            "purchases"
+        ],
+        "Invoices": [
+            "Billing",
+            "Statement"
+        ],
+        "Accounts": [
+            "User_Accounts",
+            "Accounts_Receivable"
+        ],
+        "Product_Categories": [
+            "Categories",
+            "Items_Categories"
+        ],
+        "Products": [
+            "items",
+            "merchandise"
+        ],
+        "Financial_Transactions": [
+            "Transactions",
+            "Payments"
+        ],
+        "Order_Items": [
+            "purchase_items",
+            "order_details"
+        ],
+        "Invoice_Line_Items": [
+            "Invoice_Items",
+            "Detailed_Invoices"
+        ]
+    },
+    "insurance_and_eClaims": {
+        "Customers": [
+            "Clients",
+            "Policyholders"
+        ],
+        "Staff": [
+            "Employees",
+            "Workers"
+        ],
+        "Policies": [
+            "Coverage",
+            "Insuro"
+        ],
+        "Claim_Headers": [
+            "Incident_Headers",
+            "Loss_Headers"
+        ],
+        "Claims_Documents": [
+            "Proof_Of_Loss",
+            "Supporting_Documents"
+        ],
+        "Claims_Processing_Stages": [
+            "Claim_Stages",
+            "Processing_Stages"
+        ],
+        "Claims_Processing": [
+            "Claims_Adjudication",
+            "Claims_Adjustment"
+        ]
+    },
+    "college_1": {
+        "CLASS": [
+            "lecture",
+            "session"
+        ],
+        "COURSE": [
+            "subject",
+            "module"
+        ],
+        "DEPARTMENT": [
+            "faculty",
+            "school"
+        ],
+        "EMPLOYEE": [
+            "staff",
+            "personnel"
+        ],
+        "ENROLL": [
+            "register",
+            "enlist"
+        ],
+        "PROFESSOR": [
+            "instructor",
+            "teacher"
+        ],
+        "STUDENT": [
+            "pupil",
+            "learner"
+        ]
+    },
+    "local_govt_mdm": {
+        "Customer_Master_Index": [
+            "Citizen_Database",
+            "Population_Register"
+        ],
+        "CMI_Cross_References": [
+            "Customer_Relations_Index",
+            "CRI_Cross_References"
+        ],
+        "Council_Tax": [
+            "Property_Tax",
+            "Municipal_Tax"
+        ],
+        "Business_Rates": [
+            "Commercial_Tax",
+            "Trader_Rates"
+        ],
+        "Benefits_Overpayments": [
+            "Benefit_Overpayment",
+            "Overpayment_Benefits"
+        ],
+        "Parking_Fines": [
+            "Parking_Violations",
+            "Fines_For_Parking"
+        ],
+        "Rent_Arrears": [
+            "Rent_Delinquency",
+            "Outstanding_Rent"
+        ],
+        "Electoral_Register": [
+            "Voter_List",
+            "Voter_Register"
+        ]
+    },
+    "book_2": {
+        "publication": [
+            "magazine",
+            "journal"
+        ],
+        "book": [
+            "novel",
+            "text"
+        ]
+    },
+    "hr_1": {
+        "regions": [
+            "territories",
+            "zones"
+        ],
+        "countries": [
+            "nation",
+            "states"
+        ],
+        "departments": [
+            "divisions",
+            "business_units"
+        ],
+        "jobs": [
+            "positions",
+            "roles"
+        ],
+        "employees": [
+            "staff",
+            "personnel"
+        ],
+        "job_history": [
+            "employment_history",
+            "work_experience"
+        ],
+        "locations": [
+            "sites",
+            "branches"
+        ]
+    },
+    "soccer_1": {
+        "Player_Attributes": [
+            "Player_Stats",
+            "Player_Metrics"
+        ],
+        "sqlite_sequence": [
+            "auto_increment",
+            "serial_id"
+        ],
+        "Player": [
+            "Athlete",
+            "Sportsman"
+        ],
+        "League": [
+            "Division",
+            "Conference"
+        ],
+        "Country": [
+            "Nation",
+            "Territory"
+        ],
+        "Team": [
+            "Squad",
+            "Club"
+        ],
+        "Team_Attributes": [
+            "Team_Stats",
+            "Team_Performance"
+        ]
+    },
+    "sakila_1": {
+        "actor": [
+            "performer",
+            "cast_member"
+        ],
+        "address": [
+            "location",
+            "residence"
+        ],
+        "category": [
+            "classification",
+            "genre"
+        ],
+        "city": [
+            "metropolis",
+            "municipality"
+        ],
+        "country": [
+            "nation",
+            "territory"
+        ],
+        "customer": [
+            "client",
+            "subscriber"
+        ],
+        "film": [
+            "movie",
+            "cinema"
+        ],
+        "film_actor": [
+            "movie_actors",
+            "film_performers"
+        ],
+        "film_category": [
+            "movie_category",
+            "category_film"
+        ],
+        "film_text": [
+            "movie_text",
+            "film_description"
+        ],
+        "inventory": [
+            "stock",
+            "supply"
+        ],
+        "language": [
+            "lingua",
+            "idioma"
+        ],
+        "payment": [
+            "transaction",
+            "payment_transaction"
+        ],
+        "rental": [
+            "booking",
+            "leasing"
+        ],
+        "staff": [
+            "employee",
+            "personnel"
+        ],
+        "store": [
+            "outlet",
+            "emporium"
+        ]
+    },
+    "real_estate_properties": {
+        "Ref_Feature_Types": [
+            "Feature_Type_Reference",
+            "Property_Features"
+        ],
+        "Ref_Property_Types": [
+            "property_classification",
+            "property_categories"
+        ],
+        "Other_Available_Features": [
+            "Additional_Features",
+            "Extra_Property_Features"
+        ],
+        "Properties": [
+            "Estates",
+            "Real_Estate_Listings"
+        ],
+        "Other_Property_Features": [
+            "Additional_Property_Features",
+            "Supplementary_Property_Features"
+        ]
+    },
+    "college_3": {
+        "Student": [
+            "learner",
+            "pupil"
+        ],
+        "Faculty": [
+            "Professor",
+            "Instructor"
+        ],
+        "Department": [
+            "Academic_Unit",
+            "Division"
+        ],
+        "Member_of": [
+            "Belongs_to",
+            "Affiliated_with"
+        ],
+        "Course": [
+            "Subject",
+            "Curriculum"
+        ],
+        "Minor_in": [
+            "Additional_field_of_study",
+            "Supplementary_major"
+        ],
+        "Enrolled_in": [
+            "Registered_for",
+            "Attending"
+        ],
+        "Gradeconversion": [
+            "Grades",
+            "Grade_scale"
+        ]
+    },
+    "course_teach": {
+        "course": [
+            "class",
+            "lecture"
+        ],
+        "teacher": [
+            "instructor",
+            "professor"
+        ],
+        "course_arrange": [
+            "class_schedule",
+            "timetable"
+        ]
+    },
+    "roller_coaster": {
+        "roller_coaster": [
+            "ride",
+            "coaster_track"
+        ],
+        "country": [
+            "nation",
+            "state"
+        ]
+    },
+    "customer_deliveries": {
+        "Products": [
+            "Merchandise",
+            "Goods"
+        ],
+        "Addresses": [
+            "Locations",
+            "Destinations"
+        ],
+        "Customers": [
+            "Clients",
+            "Buyers"
+        ],
+        "Regular_Orders": [
+            "Scheduled_Orders",
+            "Recurring_Orders"
+        ],
+        "Regular_Order_Products": [
+            "Standing_Order_Products",
+            "Recurring_Order_Products"
+        ],
+        "Actual_Orders": [
+            "completed_orders",
+            "fulfilled_orders"
+        ],
+        "Actual_Order_Products": [
+            "Delivered_Items",
+            "Fulfilled_Orders"
+        ],
+        "Customer_Addresses": [
+            "Client_Addresses",
+            "Customer_Locations"
+        ],
+        "Delivery_Routes": [
+            "Shipping_Routes",
+            "Route_Plans"
+        ],
+        "Delivery_Route_Locations": [
+            "Location_Sequences",
+            "Route_Stops"
+        ],
+        "Trucks": [
+            "vehicles",
+            "trucks_fleet"
+        ],
+        "Employees": [
+            "staff",
+            "workers"
+        ],
+        "Order_Deliveries": [
+            "Shipping_Documents",
+            "Delivery_Records"
+        ]
+    },
+    "game_injury": {
+        "stadium": [
+            "arena",
+            "field"
+        ],
+        "game": [
+            "match",
+            "contest"
+        ],
+        "injury_accident": [
+            "incident",
+            "casualty"
+        ]
+    },
+    "school_finance": {
+        "School": [
+            "institution",
+            "academy"
+        ],
+        "budget": [
+            "finance",
+            "expenditure"
+        ],
+        "endowment": [
+            "funds",
+            "assets"
+        ]
+    },
+    "scholar": {
+        "venue": [
+            "location",
+            "conference"
+        ],
+        "author": [
+            "writer",
+            "creator"
+        ],
+        "dataset": [
+            "corpus",
+            "database"
+        ],
+        "journal": [
+            "periodical",
+            "publication"
+        ],
+        "keyphrase": [
+            "keyword",
+            "tag"
+        ],
+        "paper": [
+            "article",
+            "publication"
+        ],
+        "cite": [
+            "reference",
+            "acknowledge"
+        ],
+        "paperDataset": [
+            "researchData",
+            "studyData"
+        ],
+        "paperKeyphrase": [
+            "paperTopic",
+            "documentKeyword"
+        ],
+        "writes": [
+            "publishes",
+            "records"
+        ]
+    },
+    "voter_1": {
+        "AREA_CODE_STATE": [
+            "zipcode_state",
+            "region_state"
+        ],
+        "CONTESTANTS": [
+            "candidates",
+            "participants"
+        ],
+        "VOTES": [
+            "balloths",
+            "polls"
+        ]
+    },
+    "match_season": {
+        "country": [
+            "nation",
+            "territory"
+        ],
+        "team": [
+            "club",
+            "squad"
+        ],
+        "match_season": [
+            "season",
+            "league"
+        ],
+        "player": [
+            "athlete",
+            "sportsman"
+        ]
+    },
+    "small_bank_1": {
+        "ACCOUNTS": [
+            "CUSTOMERS",
+            "USERS"
+        ],
+        "SAVINGS": [
+            "DEPOSIT",
+            "SAVING"
+        ],
+        "CHECKING": [
+            "current_account",
+            "demand_deposit"
+        ]
+    },
+    "wta_1": {
+        "players": [
+            "athletes",
+            "competitors"
+        ],
+        "matches": [
+            "games",
+            "contests"
+        ],
+        "rankings": [
+            "standings",
+            "leaderboard"
+        ]
+    },
+    "yelp": {
+        "business": [
+            "company",
+            "enterprise"
+        ],
+        "category": [
+            "tag",
+            "classification"
+        ],
+        "user": [
+            "customer",
+            "member"
+        ],
+        "checkin": [
+            "attendance",
+            "log"
+        ],
+        "neighbourhood": [
+            "district",
+            "zone"
+        ],
+        "review": [
+            "feedback",
+            "testimonial"
+        ],
+        "tip": [
+            "suggestion",
+            "recommendation"
+        ]
+    },
+    "student_1": {
+        "list": [
+            "students",
+            "roster"
+        ],
+        "teachers": [
+            "instructors",
+            "professors"
+        ]
+    },
+    "manufacturer": {
+        "manufacturer": [
+            "maker",
+            "producer"
+        ],
+        "furniture": [
+            "product",
+            "item"
+        ],
+        "furniture_manufacte": [
+            "product_line",
+            "item_category"
+        ]
+    },
+    "store_1": {
+        "artists": [
+            "performers",
+            "musicians"
+        ],
+        "sqlite_sequence": [
+            "sequence_numbers",
+            "table_sequences"
+        ],
+        "albums": [
+            "records",
+            "collections"
+        ],
+        "employees": [
+            "staff",
+            "personnel"
+        ],
+        "customers": [
+            "clients",
+            "buyers"
+        ],
+        "genres": [
+            "music_categories",
+            "song_genres"
+        ],
+        "invoices": [
+            "sales",
+            "orders"
+        ],
+        "media_types": [
+            "file_types",
+            "format_types"
+        ],
+        "tracks": [
+            "songs",
+            "recordings"
+        ],
+        "invoice_lines": [
+            "transactions",
+            "sales_lines"
+        ],
+        "playlists": [
+            "mixtapes",
+            "compilations"
+        ],
+        "playlist_tracks": [
+            "playlist_songs",
+            "list_tracks"
+        ]
+    },
+    "train_station": {
+        "station": [
+            "depot",
+            "terminal"
+        ],
+        "train": [
+            "locomotive",
+            "railway_carriage"
+        ],
+        "train_station": [
+            "train_stop",
+            "railway_station"
+        ]
+    },
+    "document_management": {
+        "Roles": [
+            "Permissions",
+            "AccessLevels"
+        ],
+        "Users": [
+            "Members",
+            "Subscribers"
+        ],
+        "Document_Structures": [
+            "Document_Templates",
+            "Document_Formats"
+        ],
+        "Functional_Areas": [
+            "Departments",
+            "Units"
+        ],
+        "Images": [
+            "Pictures",
+            "Graphics"
+        ],
+        "Documents": [
+            "Files",
+            "Records"
+        ],
+        "Document_Functional_Areas": [
+            "Document_Workflows",
+            "Document_Aspects"
+        ],
+        "Document_Sections": [
+            "Sectioned_Documents",
+            "Document_Parts"
+        ],
+        "Document_Sections_Images": [
+            "Section_Images",
+            "Image_Mappings"
+        ]
+    },
+    "formula_1": {
+        "circuits": [
+            "tracks",
+            "courses"
+        ],
+        "races": [
+            "grandPrix",
+            "championships"
+        ],
+        "drivers": [
+            "pilots",
+            "racers"
+        ],
+        "status": [
+            "race_status",
+            "driver_status"
+        ],
+        "seasons": [
+            "championships",
+            "years"
+        ],
+        "constructors": [
+            "teams",
+            "franchises"
+        ],
+        "constructorStandings": [
+            "teamStandings",
+            "manufacturerStandings"
+        ],
+        "results": [
+            "outcomes",
+            "finishes"
+        ],
+        "driverStandings": [
+            "driver_points",
+            "driver_championship"
+        ],
+        "constructorResults": [
+            "constructor_performance",
+            "constructor_history"
+        ],
+        "qualifying": [
+            "qualifyingResults",
+            "gridPositions"
+        ],
+        "pitStops": [
+            "tire_changes",
+            "mechanical_changes"
+        ],
+        "lapTimes": [
+            "lapData",
+            "lapTimings"
+        ]
+    },
+    "game_1": {
+        "Student": [
+            "learner",
+            "pupil"
+        ],
+        "Video_Games": [
+            "console_games",
+            "gaming_titles"
+        ],
+        "Plays_Games": [
+            "plays_video_games",
+            "game_played_by"
+        ],
+        "SportsInfo": [
+            "AthleteInfo",
+            "FitnessData"
+        ]
+    },
+    "loan_1": {
+        "bank": [
+            "financial_institution",
+            "lending_institution"
+        ],
+        "customer": [
+            "borrower",
+            "client"
+        ],
+        "loan": [
+            "credit",
+            "advance"
+        ]
+    },
+    "bike_1": {
+        "station": [
+            "hub",
+            "terminal"
+        ],
+        "status": [
+            "availability",
+            "usage"
+        ],
+        "trip": [
+            "journey",
+            "ride"
+        ],
+        "weather": [
+            "climate",
+            "meteorology"
+        ]
+    },
+    "entrepreneur": {
+        "entrepreneur": [
+            "businessperson",
+            "tycoon"
+        ],
+        "people": [
+            "individuals",
+            "persons"
+        ]
+    },
+    "orchestra": {
+        "conductor": [
+            "director",
+            "maestro"
+        ],
+        "orchestra": [
+            "ensemble",
+            "symphony"
+        ],
+        "performance": [
+            "recital",
+            "concert"
+        ],
+        "show": [
+            "concert",
+            "production"
+        ]
+    },
+    "cre_Drama_Workshop_Groups": {
+        "Ref_Payment_Methods": [
+            "payment_modes",
+            "payment_options"
+        ],
+        "Ref_Service_Types": [
+            "Category",
+            "Classification"
+        ],
+        "Addresses": [
+            "Locations",
+            "Geographic_Addresses"
+        ],
+        "Products": [
+            "merchandise",
+            "items"
+        ],
+        "Marketing_Regions": [
+            "Sales_Regions",
+            "Territories"
+        ],
+        "Clients": [
+            "Customers_Data",
+            "Service_Users"
+        ],
+        "Drama_Workshop_Groups": [
+            "Acting_Workshop_Groups",
+            "Theatre_Workshop_Groups"
+        ],
+        "Performers": [
+            "actors",
+            "cast"
+        ],
+        "Customers": [
+            "Patrons",
+            "Subscribers"
+        ],
+        "Stores": [
+            "Branches",
+            "Outlets"
+        ],
+        "Bookings": [
+            "Reservations",
+            "Appointments"
+        ],
+        "Performers_in_Bookings": [
+            "Actors_in_Bookings",
+            "Artists_in_Bookings"
+        ],
+        "Customer_Orders": [
+            "sales_orders",
+            "consumer_orders"
+        ],
+        "Order_Items": [
+            "Itemized_Orders",
+            "Order_Details"
+        ],
+        "Invoices": [
+            "billing",
+            "invoices_history"
+        ],
+        "Services": [
+            "Activities",
+            "Programs"
+        ],
+        "Bookings_Services": [
+            "Services_Bookings",
+            "Bookings_Provided_Services"
+        ],
+        "Invoice_Items": [
+            "Invoice_Items_Details",
+            "Items_in_Invoices"
+        ]
+    },
+    "car_1": {
+        "continents": [
+            "continents_list",
+            "planet_regions"
+        ],
+        "countries": [
+            "nation",
+            "state"
+        ],
+        "car_makers": [
+            "manufacturers",
+            "auto_brands"
+        ],
+        "model_list": [
+            "car_models",
+            "vehicle_models"
+        ],
+        "car_names": [
+            "car_models",
+            "vehicle_names"
+        ],
+        "cars_data": [
+            "vehicle_data",
+            "auto_data"
+        ]
+    },
+    "geo": {
+        "state": [
+            "province",
+            "territory"
+        ],
+        "city": [
+            "municipality",
+            "metropolis"
+        ],
+        "border_info": [
+            "boundary_data",
+            "frontier_info"
+        ],
+        "highlow": [
+            "terrain_elevation",
+            "altitude"
+        ],
+        "lake": [
+            "pond",
+            "reservoir"
+        ],
+        "mountain": [
+            "peak",
+            "summit"
+        ],
+        "river": [
+            "stream",
+            "waterway"
+        ]
+    },
+    "behavior_monitoring": {
+        "Ref_Address_Types": [
+            "address_type",
+            "location_type"
+        ],
+        "Ref_Detention_Type": [
+            "Detention_Categories",
+            "Detention_Types"
+        ],
+        "Ref_Incident_Type": [
+            "Violation_Type",
+            "Infraction_Type"
+        ],
+        "Addresses": [
+            "location",
+            "residences"
+        ],
+        "Students": [
+            "Pupils",
+            "Learners"
+        ],
+        "Teachers": [
+            "Educators",
+            "Instructors"
+        ],
+        "Assessment_Notes": [
+            "Evaluation_Notes",
+            "Gradebook_Notes"
+        ],
+        "Behavior_Incident": [
+            "Incident_Report",
+            "Behavior_Observation"
+        ],
+        "Detention": [
+            "Detainment",
+            "Confinement"
+        ],
+        "Student_Addresses": [
+            "Address_Records",
+            "Student_Locations"
+        ],
+        "Students_in_Detention": [
+            "Detained_Students",
+            "Punished_Students"
+        ]
+    },
+    "cre_Doc_Tracking_DB": {
+        "Ref_Document_Types": [
+            "Doc_Type_Reference",
+            "Document_Types_Reference"
+        ],
+        "Ref_Calendar": [
+            "Calendar",
+            "Event_Calendar"
+        ],
+        "Ref_Locations": [
+            "Address_Locations",
+            "Reference_Address"
+        ],
+        "Roles": [
+            "Permissions",
+            "Access_Rights"
+        ],
+        "All_Documents": [
+            "Document_Register",
+            "Recorded_Documents"
+        ],
+        "Employees": [
+            "Staff",
+            "Personnel"
+        ],
+        "Document_Locations": [
+            "Document_Places",
+            "Document_Storage"
+        ],
+        "Documents_to_be_Destroyed": [
+            "Documents_for_Disposal",
+            "Obsolete_Documents"
+        ]
+    },
+    "university_basketball": {
+        "basketball_match": [
+            "game",
+            "match_event"
+        ],
+        "university": [
+            "college",
+            "institution"
+        ]
+    },
+    "soccer_2": {
+        "College": [
+            "University",
+            "Institution"
+        ],
+        "Player": [
+            "Athlete",
+            "Sportsperson"
+        ],
+        "Tryout": [
+            "audition",
+            "selection"
+        ]
+    },
+    "activity_1": {
+        "Activity": [
+            "task",
+            "engagement"
+        ],
+        "Participates_in": [
+            "Attends",
+            "Enrolls_in"
+        ],
+        "Faculty_Participates_in": [
+            "Teaches_Activity",
+            "Supervises_Activity"
+        ],
+        "Student": [
+            "Learner",
+            "Scholar"
+        ],
+        "Faculty": [
+            "teacher",
+            "instructor"
+        ]
+    },
+    "cre_Theme_park": {
+        "Ref_Hotel_Star_Ratings": [
+            "Hotel_Ratings",
+            "Star_Ratings"
+        ],
+        "Locations": [
+            "places",
+            "spots"
+        ],
+        "Ref_Attraction_Types": [
+            "Types_Of_Attractions",
+            "Attraction_Categories"
+        ],
+        "Visitors": [
+            "Tourists",
+            "Guests"
+        ],
+        "Features": [
+            "Services",
+            "Facilities"
+        ],
+        "Hotels": [
+            "Lodging",
+            "Inns"
+        ],
+        "Tourist_Attractions": [
+            "Landmarks",
+            "Sightseeing_spots"
+        ],
+        "Street_Markets": [
+            "Bazaars",
+            "Flea_Markets"
+        ],
+        "Shops": [
+            "Retailers",
+            "Boutiques"
+        ],
+        "Museums": [
+            "Art_Galleries",
+            "Historical_Sites"
+        ],
+        "Royal_Family": [
+            "Monarchy",
+            "Noble_Family"
+        ],
+        "Theme_Parks": [
+            "Amusement_Parks",
+            "Adventure_Parks"
+        ],
+        "Visits": [
+            "Trips",
+            "Excursions"
+        ],
+        "Photos": [
+            "Pictures",
+            "Snapshots"
+        ],
+        "Staff": [
+            "Employees",
+            "Workers"
+        ],
+        "Tourist_Attraction_Features": [
+            "Landmark_Features",
+            "Attraction_Aspects"
+        ]
+    },
+    "twitter_1": {
+        "follows": [
+            "connections",
+            "network"
+        ],
+        "tweets": [
+            "posts",
+            "statuses"
+        ],
+        "user_profiles": [
+            "accounts",
+            "profiles_info"
+        ]
+    },
+    "election_representative": {
+        "election": [
+            "vote",
+            "ballot"
+        ],
+        "representative": [
+            "delegate",
+            "congressman"
+        ]
+    },
+    "voter_2": {
+        "Student": [
+            "Enrollee",
+            "Learner"
+        ],
+        "Voting_record": [
+            "Election_history",
+            "Ballot_report"
+        ]
+    },
+    "wedding": {
+        "people": [
+            "guests",
+            "attendees"
+        ],
+        "church": [
+            "synagogue",
+            "temple"
+        ],
+        "wedding": [
+            "marriage",
+            "nuptial"
+        ]
+    },
+    "news_report": {
+        "event": [
+            "story",
+            "coverage"
+        ],
+        "journalist": [
+            "reporter",
+            "correspondent"
+        ],
+        "news_report": [
+            "news_article",
+            "news_story"
+        ]
+    },
+    "wine_1": {
+        "grapes": [
+            "varietals",
+            "strains"
+        ],
+        "appellations": [
+            "regions",
+            "terroirs"
+        ],
+        "wine": [
+            "vino",
+            "vin"
+        ]
+    },
+    "customers_and_addresses": {
+        "Addresses": [
+            "Locations",
+            "Residences"
+        ],
+        "Products": [
+            "Merchandise",
+            "Items"
+        ],
+        "Customers": [
+            "Clients",
+            "Buyers"
+        ],
+        "Customer_Addresses": [
+            "Address_Details",
+            "Customer_Location"
+        ],
+        "Customer_Contact_Channels": [
+            "Customer_Contacts",
+            "Contact_Details"
+        ],
+        "Customer_Orders": [
+            "Sales",
+            "Transactions"
+        ],
+        "Order_Items": [
+            "Order_Details",
+            "Order_Lines"
+        ]
+    },
+    "protein_institute": {
+        "building": [
+            "structure",
+            "edifice"
+        ],
+        "Institution": [
+            "center",
+            "research"
+        ],
+        "protein": [
+            "amino_acid",
+            "peptide"
+        ]
+    },
+    "school_player": {
+        "school": [
+            "institution",
+            "academy"
+        ],
+        "school_details": [
+            "school_information",
+            "educational_institution_details"
+        ],
+        "school_performance": [
+            "school_records",
+            "academic_performance"
+        ],
+        "player": [
+            "athlete",
+            "participant"
+        ]
+    },
+    "phone_1": {
+        "chip_model": [
+            "processor",
+            "CPU_model"
+        ],
+        "screen_mode": [
+            "display_mode",
+            "resolution_settings"
+        ],
+        "phone": [
+            "smartphone",
+            "cellphone"
+        ]
+    },
+    "tvshow": {
+        "TV_Channel": [
+            "Broadcasting_Channel",
+            "Television_Channel"
+        ],
+        "TV_series": [
+            "TV_show",
+            "TV_program"
+        ],
+        "Cartoon": [
+            "animated_series",
+            "toons"
+        ]
+    },
+    "wrestler": {
+        "wrestler": [
+            "fighter",
+            "grappler"
+        ],
+        "Elimination": [
+            "defeat",
+            "removal"
+        ]
+    },
+    "customer_complaints": {
+        "Staff": [
+            "Employees",
+            "Workers"
+        ],
+        "Customers": [
+            "Users",
+            "Clients"
+        ],
+        "Products": [
+            "Merchandise",
+            "Inventory"
+        ],
+        "Complaints": [
+            "Issues",
+            "Grievances"
+        ]
+    },
+    "department_management": {
+        "department": [
+            "division",
+            "branch"
+        ],
+        "head": [
+            "admin",
+            "supervisor"
+        ],
+        "management": [
+            "administration",
+            "governance"
+        ]
+    },
+    "customers_and_products_contacts": {
+        "Addresses": [
+            "Location",
+            "Client_Location"
+        ],
+        "Products": [
+            "Merchandise",
+            "Items"
+        ],
+        "Customers": [
+            "Clients",
+            "Buyers"
+        ],
+        "Contacts": [
+            "people",
+            "associates"
+        ],
+        "Customer_Address_History": [
+            "Address_Change_History",
+            "Customer_Location_History"
+        ],
+        "Customer_Orders": [
+            "Purchase_Orders",
+            "Sales_Orders"
+        ],
+        "Order_Items": [
+            "Order_Details",
+            "Itemized_Orders"
+        ]
+    },
+    "company_1": {
+        "works_on": [
+            "employee_project",
+            "staff_project"
+        ],
+        "employee": [
+            "staff",
+            "personnel"
+        ],
+        "department": [
+            "division",
+            "sector"
+        ],
+        "project": [
+            "task",
+            "assignment"
+        ],
+        "dependent": [
+            "beneficiary",
+            "family_member"
+        ],
+        "dept_locations": [
+            "office_locations",
+            "department_locations"
+        ]
+    },
+    "workshop_paper": {
+        "workshop": [
+            "training",
+            "course"
+        ],
+        "submission": [
+            "proposal",
+            "abstract"
+        ],
+        "Acceptance": [
+            "approval",
+            "confirmation"
+        ]
+    },
+    "epinions_1": {
+        "item": [
+            "product",
+            "listing"
+        ],
+        "review": [
+            "feedback",
+            "evaluation"
+        ],
+        "useracct": [
+            "account",
+            "member"
+        ],
+        "trust": [
+            "social_network",
+            "reliability"
+        ]
+    },
+    "party_host": {
+        "party": [
+            "event",
+            "celebration"
+        ],
+        "host": [
+            "organizer",
+            "planner"
+        ],
+        "party_host": [
+            "reservation",
+            "guest_list"
+        ]
+    },
+    "product_catalog": {
+        "Attribute_Definitions": [
+            "Product_Attributes",
+            "Attributes"
+        ],
+        "Catalogs": [
+            "Product_Categories",
+            "Product_Collections"
+        ],
+        "Catalog_Structure": [
+            "Hierarchy",
+            "Catalog_Tree"
+        ],
+        "Catalog_Contents": [
+            "Products",
+            "Inventory"
+        ],
+        "Catalog_Contents_Additional_Attributes": [
+            "Catalog_Contents_Extra_Attributes",
+            "Product_Features"
+        ]
+    }
+}
