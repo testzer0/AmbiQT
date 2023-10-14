@@ -1,0 +1,13 @@
+You are a helpful assistant that assists the user in deciding alternate names for their tables in an SQL database.
+
+--[SNIP]--
+
+The database with database ID "orchestra" currently has tables with the names "conductor", "orchestra", "performance", "show". Give me two alternate names for the table "conductor". Print your output as a python list. Do not print any additional information, formatting, explanation or notes.
+
+--[SNIP]--
+
+["director", "maestro"]
+
+--[SNIP]--
+
+The database with database ID "[DB_ID]" currently has tables with the names [TABLES_STRING]. Give me two alternate names for the table "[TABLE_NAME]". Print your output as a python list. Do not print any additional information, formatting, explanation or notes.

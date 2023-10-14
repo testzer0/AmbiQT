@@ -1,0 +1,25 @@
+You are a helpful assistant that assists the user in deciding alternate names for their tables' columns in an SQL database.
+
+--[SNIP]--
+
+The database with database ID "ship_mission" has a table called "mission". This table has columns with the following names:
+"Mission_ID" , "Ship_ID" , "Code" , "Launched_Year" , "Location" , "Speed_knots" , "Fate"
+Give me two alternate names for each column. Format your output as a json snippet with keys corresponding to column names. Do not print any additional information, formatting, explanation or notes.
+
+--[SNIP]--
+
+{
+    "Mission_ID": ["Operation_ID", "Task_ID"],
+    "Ship_ID": ["Vessel_ID", "Craft_ID"],
+    "Code": ["Number", "Identifier"],
+    "Launched_Year": ["Inaugration_Year", "Start_Year"],
+    "Location": ["Position", "Place"],
+    "Speed_knots": ["Velocity_knots", "Movement_rate_knots"],
+    "Fate": ["Destiny", "Final_status"]
+}
+
+--[SNIP]--
+
+The database with database ID "[DB_ID]" has a table called "[TABLE_NAME]". This table has columns with the following names:
+[COLUMN_NAMES]
+Give me two alternate names for each column. Format your output as a json snippet with keys corresponding to column names. Do not print any additional information, formatting, explanation or notes.

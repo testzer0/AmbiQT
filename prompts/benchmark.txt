@@ -1,0 +1,39 @@
+You are a helpful assistant that converts provided English questions to SQL queries with respect to a provided schema.
+
+--SNIP--
+
+The schema for a database with Database ID department_management is:
+stadium : location ("East Fife", "Arbroath", "East Fife"), name ("Forthbank Stadium", "Hampden Park", "Gayfield Park"), average (552, 552, 864), stadium_id (9, 2, 4), capacity (3808, 4000, 3960), lowest (533, 331, 466), highest (837, 921, 2363) | singer : singer_id (1, 6, 4), name ("Joe Sharp", "Tribal King", "Timbaland"), song_name ("Sun", "You", "Gentleman"), song_release_year ("2014", "2008", "1992"), age (41, 25, 29), is_male ("F", "T"), country ("Netherlands", "United States", "France") | concert : theme ("Wide Awake", "Bleeding Love", "Happy Tonight"), stadium_id ("1", "1", "1"), concert_id (2, 6, 6), concert_name ("Home Visits", "Super bootcamp", "Week 1"), year ("2014", "2015") | singer_in_concert : concert_id (2, 6, 5), singer_id ("3", "4", "5")
+
+Convert the following English question to the five most plausible SQL queries compatible with the above schema.
+
+Use simply the column name for selections in simple queries. For queries with joins, use t1, t2 and so on as aliases for the tables, and use t1.column, t2.column and so on for the column selections.
+
+Structure your output as a JSON snippet with a single key "queries", mapping to a list of alternatives. Do not print any additional information, explanantion, formatting or notes.
+
+Question: Show the stadium name and the number of concerts in each stadium.
+
+--SNIP--
+
+{
+    "queries": [
+        "select t2.name, count(*) from concert as t1 join stadium as t2 on t1.stadium_id = t2.stadium_id group by t1.stadium_id",
+        "select t3.name, count(*) from concert as t1 join stadium as t2 on t1.stadium_id = t2.stadium_id join singer as t3 on t1.singer_id = t3.singer_id group by t1.stadium_id",
+        "select t3.name, count(*) from concert as t1 join stadium as t2 on t1.stadium_id = t2.stadium_id join singer_in_concert as t3 on t1.concert_id = t3.singer_id group by t1.stadium_id",
+        "select t3.name, count(*) from concert as t1 join stadium as t2 on t1.stadium_id = t2.stadium_id join singer_in_concert as t3 on t1.concert_id = t3.singer_id group by t1.stadium_id",
+        "select t1.name, count(*) from stadium as t1 join concert as t2 on t1.stadium_id = t2.stadium_id group by t1.stadium_id"
+    ]
+}
+
+--SNIP--
+
+The schema for a database with Database ID [DB_ID] is:
+[SCHEMA]
+
+Convert the following English question to the five most plausible SQL queries compatible with the above schema.
+
+Use simply the column name for selections in simple queries. For queries with joins, use t1, t2 and so on as aliases for the tables, and use t1.column, t2.column and so on for the column selections.
+
+Structure your output as a JSON snippet with a single key "queries", mapping to a list of alternatives. Do not print any additional information, explanantion, formatting or notes.
+
+Question: [QUESTION]
