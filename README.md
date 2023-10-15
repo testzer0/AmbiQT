@@ -58,6 +58,7 @@ We use/provide the following checkpoints for the various tasks.
 | Template-Fill-In | [adithyabhaskar/flan-t5-xl-template-fill](https://huggingface.co/adithyabhaskar/flan-t5-xl-template-fill) |
 
 </div>
+
 For the input format, see the README under `training-files/`.
 
 ### Training your own version of the models
