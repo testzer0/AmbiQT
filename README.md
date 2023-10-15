@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/AmbiQT.png" />
+</p>
+
 # AmbiQT and LogicalBeam
 
 This repository contains the code and assets for the following paper, to appear at EMNLP 2023 (Main):
