@@ -8,11 +8,17 @@ from tqdm import tqdm
 
 from process_sql import get_schema, Schema, get_sql
 
+DB_DIR = "../../db-content/database"
+TABLE_PATH = "../../spider/tables.json"
+EVALUATOR = None
+SCHEMAS = {}
+KMAPS = {}
+DB_MAP = {}
+
 # Flag to disable value evaluation
 DISABLE_VALUE = True
 # Flag to disable distinct in select evaluation
 DISABLE_DISTINCT = True
-
 
 CLAUSE_KEYWORDS = ('select', 'from', 'where', 'group', 'order', 'limit', 'intersect', 'union', 'except')
 JOIN_KEYWORDS = ('join', 'on', 'as')
@@ -461,8 +467,6 @@ def evaluate(gold, predict, db_dir, etype, kmaps):
 
     with open(predict) as f:
         plist = [l.strip().split('\t') for l in f.readlines() if len(l.strip()) > 0]
-    # plist = [("select max(Share),min(Share) from performance where Type != 'terminal'", "orchestra")]
-    # glist = [("SELECT max(SHARE) ,  min(SHARE) FROM performance WHERE TYPE != 'Live final'", "orchestra")]
     evaluator = Evaluator()
 
     levels = ['easy', 'medium', 'hard', 'extra', 'all']
@@ -855,13 +859,6 @@ def valid_and_runnable(sql, db_id):
     except:
         return False
     return True
-
-DB_DIR = "/home/adithya/sem8/t2s/spider/database"
-TABLE_PATH = "/home/adithya/sem8/t2s/spider/tables.json"
-EVALUATOR = None
-SCHEMAS = {}
-KMAPS = {}
-DB_MAP = {}
 
 def lower(s):
     s = s.replace("``", "`")
