@@ -47,7 +47,7 @@ We provide the source code of LogicalBeam in `src/` directory. In particular,
 ### Checkpoints
 
 We use/provide the following checkpoints for the various tasks.
-<center>
+<div align="center">
 
 | Model    | Checkpoint |
 | :--------: |:----------:|
@@ -59,7 +59,7 @@ We use/provide the following checkpoints for the various tasks.
 
 For the input format, see the README under `training-files/`
 
-</center>
+</div>
 
 ### Training your own version of the models
 
